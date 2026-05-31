@@ -32,7 +32,7 @@ BorealOS is a Alpine-based desktop Linux distribution for x86_64 systems. It aim
 
 ## Supported Desktops
 
-Fluid Linux plans to support four graphical setups:
+Boreal OS plans to support four graphical setups:
 
 - KDE Plasma
 - XFCE
