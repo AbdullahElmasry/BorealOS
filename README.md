@@ -24,7 +24,7 @@ BorealOS is a Debian-based desktop Linux distribution for x86_64 systems. It aim
 - Own unit system forked off of systems keeping compatibility but debloating.
 - Debain-based desktop operating system.
 - Community-driven development.
-- Pre-riced water/wave-themed desktops and window managers.
+- Pre-riced desktops and window managers.
 - Warnings before risky operations.
 - Documentation-first approach with focus on man pages.
 
