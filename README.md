@@ -12,12 +12,11 @@ The project plans to use **finit**, or alternatively **laked**, as its init syst
 
 | Area | Plan |
 |---|---|
-| Base | Debian-based |
+| Base | Alpine-based |
 | Architecture | x86_64 only |
 | Target users | Intermediate Linux users |
 | Init system | finit or laked |
 | Default shell | `sh` |
-| Alternative edition | Fish shell by default |
 | libc | Musl libc |
 | Theme | Water/wave-inspired rice |
 | Documentation | Documentation-first, with focus on man pages |
