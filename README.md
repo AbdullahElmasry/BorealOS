@@ -2,7 +2,7 @@
 
 <img src=".assets/fluid.svg" alt="Fluid Linux logo" width="180" align="right">
 
-BorealOS is a Alpine-based desktop Linux distribution for x86_64 systems. It aims to provide a clean Alpine experience without the usual systemd setup using <a href="https://github.com/m4rn-progs/aurorad.git">aurorad</a> which keeps the compatibility of systemd but removes the unnecessary and hated features.
+BorealOS is a Debian-based desktop Linux distribution for x86_64 systems. It aims to provide a clean Debian experience without the usual systemd setup using <a href="https://github.com/m4rn-progs/aurorad.git">aurorad</a> which keeps the compatibility of systemd but removes the unnecessary and hated features.
 
 ---
 
@@ -10,10 +10,10 @@ BorealOS is a Alpine-based desktop Linux distribution for x86_64 systems. It aim
 
 | Area | Plan |
 |---|---|
-| Base | Alpine-based |
+| Base | Debian-based |
 | Architecture | x86_64 only |
 | Target users | Intermediate Linux users |
-| Init system | aurorad |
+| Init system | <a href="https://github.com/m4rn-progs/aurorad.git">aurorad</a> |
 | Default shell | `sh` |
 | Documentation | Documentation-first, with focus on man pages |
 
@@ -22,7 +22,7 @@ BorealOS is a Alpine-based desktop Linux distribution for x86_64 systems. It aim
 ## Key Features
 
 - Own unit system forked off of systems keeping compatibility but debloating.
-- Alpine-based desktop operating system.
+- Debain-based desktop operating system.
 - Community-driven development.
 - Pre-riced water/wave-themed desktops and window managers.
 - Warnings before risky operations.
@@ -32,7 +32,7 @@ BorealOS is a Alpine-based desktop Linux distribution for x86_64 systems. It aim
 
 ## Supported Desktops
 
-Boreal OS plans to support four graphical setups:
+BorealOS plans to support four graphical setups:
 
 - KDE Plasma
 - XFCE
