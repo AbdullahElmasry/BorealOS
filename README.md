@@ -1,6 +1,6 @@
 <img src=".assets/boreal-banner-neue.png" alt="BorealOS banner" style="width:100%;">
 
-- BorealOS is a Debian-based desktop Linux distribution for x86_64 systems. It aims to provide an optimized Debian experience without systemd, using <a href="https://github.com/m4rn-progs/aurorad.git">aurorad</a>, which keeps compatibility with systemd but removes the unnecessary and controversial features.
+- BorealOS is a Debian-based desktop Linux distribution for x86_64 systems. It aims to provide an optimized Debian experience without systemd, using <a href="https://github.com/m4rn-progs/aurorad.git">aurorad</a>, which keeps compatibility with systemd but removes the features outside the project’s intended scope.
 
 <br clear="all">
 
@@ -20,7 +20,7 @@
 ## Key Features
 
 - Own unit system forked off of systemd keeping compatibility but lighter.
-- Debain-based Desktop operating system.
+- Debain-based desktop operating system.
 - Community-driven development.
 - Pre-riced desktops and window managers.
 - Warnings before risky operations.
